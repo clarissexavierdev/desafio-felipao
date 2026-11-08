@@ -91,6 +91,6 @@ premioConcedido = true;
 }
 while (!premioConcedido && xp >= 4500 && xp <= 10001) {
 xp += 6001;
-console.log("Parabéns! Você ganhou o Grammy Awards Albúm do Ano (+4000xp)! Atingiu " + xp + " pontos de experiência! Agora você é uma Diva Heroína do Pop nível Radiante!");
+console.log("Parabéns! Você ganhou o Grammy Awards Albúm do Ano (+4000xp)! Atingiu " + xp + " pontos de experiência!Você salvou a música pop da extinção! Parabéns, você é uma Diva Heroína do Pop nível Diamante!");
 premioConcedido = true;
 }
